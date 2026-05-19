@@ -26,7 +26,7 @@ Me apasiona la tecnología, la automatización y el desarrollo de software, siem
 
 ## 🎯 Objetivo profesional
 
-Mi meta es convertirme en un desarrollador Full Stack capaz de crear soluciones tecnológicas innovadoras y participar en proyectos que generen un impacto positivo en empresas y personas.
+###Mi meta es convertirme en un desarrollador Full Stack capaz de crear soluciones tecnológicas innovadoras y participar en proyectos que generen un impacto positivo en empresas y personas.
 ---
 
 ## 🎮 Hobbies e intereses
