@@ -26,7 +26,7 @@ Me apasiona la tecnología, la automatización y el desarrollo de software, siem
 
 ## 🎯 Objetivo profesional
 
- Mi meta es convertirme en un desarrollador de java full stack, para contribuir en el desarrollo de tecnologías que mejoren la gestión de trabajo y calidad de vida. 
+ Mi meta es convertirme en un desarrollador de java full stack, para contribuir en el desarrollo de tecnologías que mejoren la gestión de trabajo y necesidad en las personas.
 ---
 
 ## 🎮 Hobbies e intereses
