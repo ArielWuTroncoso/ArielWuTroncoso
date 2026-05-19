@@ -3,10 +3,10 @@
 
 ## 🚀 Sobre mí
 
-Mi nombre es **Ariel Wu** 👨‍💻  
+ Mi nombre es **Ariel Wu** 👨‍💻  
 Actualmente estoy estudiando en un **Bootcamp Full Stack Java** en la organización Generation Chile 🌱 .
 
-Me apasiona la tecnología, la automatización y el desarrollo de software, siempre buscando aprender nuevas herramientas y mejorar mis habilidades como desarrollador.
+ Me apasiona la tecnología, la automatización y el desarrollo de software, siempre buscando aprender nuevas herramientas y mejorar mis habilidades como desarrollador.
 
 ---
 
