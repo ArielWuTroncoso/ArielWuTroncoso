@@ -12,12 +12,12 @@ Actualmente estoy estudiando en un **Bootcamp Full Stack Java** en la organizaci
 
 ## 📚 Actualmente aprendiendo
 
-- ☕ Javas
+- ☕ JavaScript
 - 🧩 Git y GitHub
 
 ## 📚 Proximamente
 
-- 🌐 HTML, CSS y JavaScript
+- 🌐 HTML, CSS y Java
 - 🗄️ Bases de datos SQL
 - ⚙️ Spring Boot
 - 🖥️ Desarrollo Full Stack
