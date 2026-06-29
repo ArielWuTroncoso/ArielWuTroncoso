@@ -16,9 +16,6 @@ Actualmente estoy estudiando en un **Bootcamp Full Stack Java** en la organizaci
 - 🧩 Git y GitHub
 -  🌐 HTML, CSS y Java
 - 🗄️ Bases de datos SQL
-
-## 📚 Proximamente
-
 - ⚙️ Spring Boot
 - 🖥️ Desarrollo Full Stack
 
