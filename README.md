@@ -74,7 +74,7 @@ Me interesa contribuir al desarrollo de soluciones tecnológicas que optimicen p
 ## 🚀 Proyectos destacados
 
 Durante mi proceso de aprendizaje he desarrollado aplicaciones que incluyen:
-
+* 🧠 Proyecto integrador bootcamp página web de atención en salud mental "Abrazamente".
 * 🔐 Sistemas de autenticación con JWT y Spring Security.
 * 🌐 APIs REST con Java Spring Boot y Node.js.
 * ⚛️ Interfaces web desarrolladas con React.
