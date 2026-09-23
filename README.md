@@ -4,7 +4,7 @@
 
 Mi nombre es **Ariel Wu** 👨‍💻
 
-Actualmente soy **Desarrollador Full Stack Java Junior** títulado en **Generation Chile** 🌱, donde he fortalecido mis conocimientos en desarrollo web, bases de datos y construcción de aplicaciones modernas.
+Actualmente soy **Desarrollador Full Stack Java Junior** titulado en **Generation Chile** 🌱, donde he fortalecido mis conocimientos en desarrollo web, bases de datos y construcción de aplicaciones modernas.
 
 Me apasiona la tecnología, la automatización y el desarrollo de software. Disfruto aprender nuevas herramientas, enfrentar desafíos técnicos y crear soluciones que aporten valor a las personas.
 
